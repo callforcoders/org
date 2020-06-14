@@ -20,14 +20,15 @@ Technology is the most powerful equalizer of our time, providing access to data,
 If you are building an open source technology and you think it should be shared with the Call for Coders community, submit it now:
 https://callforcoders.typeform.com/to/V7HSVhGL
 
+
+<strong>Overview</strong>
+
 <strong>Programs</strong>
 *To make sure the next generation of developers includes underserved communities, we partner with tech organizations to create great programs:*
 
 ## ✌️ K-12
 
-We provide students with the tools and the community to discover, explore and reflect. We encourage them to appropriate them, taking ownership and responsibility for their learning so they can create solutions. Learn more @ 
-
-[How it works](https://www.notion.so/How-it-works-7de6b1e3f05c4377937a2aec148e882f)
+We provide students with the tools and the community to discover, explore and reflect. We encourage them to appropriate them, taking ownership and responsibility for their learning so they can create solutions. 
 
 ## ♀️ Open Source Dev for Women
 
