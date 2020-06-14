@@ -54,6 +54,11 @@ https://callforcoders.typeform.com/to/V7HSVhGL
 
 The inspiration for Call for Coders arose more than five years ago from the desire of then-former Google Campus Tel Aviv Mentor and Startup Advisor Yael Rozencwajg to develop coding activities for the Israeli ecosystem’s teenagers and support women in their journey to becoming developers.
 
+## 🎲 Purpose and Scope
+The purpose of Call for Coders is to help the social sector and open source communities understand the benefits, challenges and opportunities of stronger mutual collaboration. 
+We are building a more diverse community of learners and contributors and we are investing our efforts in inspiring young developers and volunteer producers. 
+
+
 # Programs
 *To make sure the next generation of developers includes underserved communities, we partner with tech organizations to create great programs:*
 
