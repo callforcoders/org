@@ -50,7 +50,7 @@ https://callforcoders.typeform.com/to/V7HSVhGL
 
 *Technology is the most powerful equalizer of our time, providing access to data, knowledge, and above all, connections. By harnessing the power of coding skills and technology to support missions for good, our community is building a brighter future.*
 
-<strong>Our Roots</strong>
+## ⚓️ Our Roots
 
 The inspiration for Call for Coders arose more than five years ago from the desire of then-former Google Campus Tel Aviv Mentor and Startup Advisor Yael Rozencwajg to develop coding activities for the Israeli ecosystem’s teenagers and support women in their journey to becoming developers.
 
