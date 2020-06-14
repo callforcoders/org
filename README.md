@@ -1,5 +1,6 @@
 # Call for coders - Readme
 
+# Introduction
 <strong>Making an impact together</strong>
 Call for Coders® is a nonprofit engaged in enhancing code knowledge in schools and expanding participation by underrepresented youth and women.
 
@@ -21,7 +22,7 @@ If you are building an open source technology and you think it should be shared 
 https://callforcoders.typeform.com/to/V7HSVhGL
 
 
-<strong>Overview</strong>
+# Overview
 
 <strong>Programs</strong>
 *To make sure the next generation of developers includes underserved communities, we partner with tech organizations to create great programs:*
