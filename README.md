@@ -22,10 +22,15 @@ If you are building an open source technology and you think it should be shared 
 https://callforcoders.typeform.com/to/V7HSVhGL
 
 <strong>Follow us on our social media channels and stay updated</strong>
+
 [Linkedin] (https://www.linkedin.com/company/callforcoders)
+
 [Facebook] (https://www.facebook.com/callforcoders)
+
 [Twitter] (https://twitter.com/callforcoders)
+
 [Instagram] (https://www.instagram.com/callforcoders/)
+
 [Medium] (https://medium.com/@callforcoders)
 
 
