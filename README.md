@@ -19,3 +19,22 @@ We regularly host events for students from underrepresented communities at corpo
 Technology is the most powerful equalizer of our time, providing access to data, knowledge, and above all, connections. By harnessing the power of coding skills and technology to support missions for good, our community is building a brighter future.  
 If you are building an open source technology and you think it should be shared with the Call for Coders community, submit it now:
 https://callforcoders.typeform.com/to/V7HSVhGL
+
+<strong>Programs</strong>
+*To make sure the next generation of developers includes underserved communities, we partner with tech organizations to create great programs:*
+
+## ✌️ K-12
+
+We provide students with the tools and the community to discover, explore and reflect. We encourage them to appropriate them, taking ownership and responsibility for their learning so they can create solutions. Learn more @ 
+
+[How it works](https://www.notion.so/How-it-works-7de6b1e3f05c4377937a2aec148e882f)
+
+## ♀️ Open Source Dev for Women
+
+Call for Coders supports women in open source development, as well as the organizations that employ them and the academic institutions training the next generation. 
+We pledge to provide all the resources women need to make lasting change
+
+## 🏗️ It's time to build
+
+We believe in sharing our time, resources, and platform to help improve our local and global communities. Thousands of organizations are currently building solutions for the world’s most pressing problems. 
+We’re happy to provide qualifying teams with the community and the tools they need to work on social impact projects.
